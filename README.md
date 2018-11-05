@@ -2,8 +2,8 @@
 
 A sample todo application with MERN
 
-Stack used:
-MySQL
-Express
-React (with Flux)
-Node
+Stack used:  
+MySQL  
+Express  
+React (with Flux)  
+Node  
